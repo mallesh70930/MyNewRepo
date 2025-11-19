@@ -3,6 +3,7 @@ public class Main {
        System.out.println("Hello World");
    }
 }
+<<<<<<< Updated upstream
 //dev2 push code from local
 public class AddTwoIntegers {
    public static void main(String[] args) {
@@ -12,3 +13,8 @@ public class AddTwoIntegers {
        System.out.println("The sum is: " + sum);
    }
 }
+=======
+
+new code by dev1 without full the code
+
+>>>>>>> Stashed changes
